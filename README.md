@@ -1,1 +1,1 @@
-# Task-1
+The retail sales dataset was loaded and cleaned for analysis. Descriptive statistics were calculated to understand sales patterns. Time series analysis was used to identify sales trends over time. Customer demographics and product purchasing behavior were analyzed. Visualizations such as bar charts, line plots, and heatmaps were used to present insights. Based on the EDA, recommendations were provided to improve sales and business decisions.
